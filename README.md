@@ -1,25 +1,24 @@
-## 🏆 Professional Certifications
-
-I continuously enhance my expertise through industry-recognized certifications in Cybersecurity, Cloud, DevOps, and Security Operations.
+## 🏆 Professional Certification
 
 ### 🔐 Palo Alto Networks – Security Operations Fundamentals
 
-**Credential Holder:** Gowtham MG  
+<p align="center">
+  <a href="./palo%20alto%20certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Certificate"/>
+  </a>
+</p>
+
+**Credential Holder:** Gowtham MG
+
 **Issued:** June 26, 2026
 
-This certification validates foundational knowledge in:
+This certification demonstrates foundational expertise in:
 
-- Security Operations Center (SOC) fundamentals
-- Threat detection and analysis
-- Incident response lifecycle
-- Network security concepts
-- Security monitoring and alerting
-- Cybersecurity best practices
+- Security Operations Center (SOC) Fundamentals
+- Threat Detection and Analysis
+- Incident Response
+- Network Security
+- Security Monitoring
+- Cybersecurity Best Practices
 
-📄 **View Certificate**
-
-[![View Certificate](https://img.shields.io/badge/View-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./palo-alto-certificate.pdf)
-
----
-
-> I am committed to continuously improving my technical expertise by pursuing industry-recognized certifications in Cybersecurity, DevOps, Cloud Computing, and Machine Learning.
+> 📄 **Click the "View Certificate" button above to open the certificate directly from this repository.**
